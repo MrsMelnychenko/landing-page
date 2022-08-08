@@ -1,0 +1,18 @@
+h1 {
+    display: inline;
+}
+.header-nav {
+    display: inline;
+}
+.header-nav-menu {
+    display: inline;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.header-nav {
+    background: url(../img/caring-a-dog-banner.jpg);
+}
