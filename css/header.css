@@ -1,16 +1,26 @@
-.title {
+h1 {
     display: inline;
+    color: whitesmoke;
 }
-.header-nav-menu{
+.header-nav {
     display: inline;
+    text-align:end;
 }
-
 h2 {
     text-align: center;
+    color: black;
 }
 h3 {
     text-align: center;
+    color: black;
 }
-.header-nav {
-    background: url(../img/caring-a-dog-banner.jpg);
+header {
+    background: url(../img/caring-a-dog-banner.webp);
+    background-size: cover;
+    background-position: 50% 35%;
+    min-height: 1000px;
+    background-blend-mode: color-burn;
+}
+.button-container {
+    text-align:center;
 }
