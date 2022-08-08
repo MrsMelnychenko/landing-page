@@ -1,12 +1,10 @@
-h1 {
+.title {
     display: inline;
 }
-.header-nav {
+.header-nav-menu{
     display: inline;
 }
-.header-nav-menu {
-    display: inline;
-}
+
 h2 {
     text-align: center;
 }
