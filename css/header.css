@@ -1,26 +1,33 @@
 h1 {
     display: inline;
-    color: whitesmoke;
+    color: orange;
+    font-size: 100px;
 }
-.header-nav {
-    display: inline;
-    text-align:end;
+.navigation-menu {
+    color:brown;
+    text-align: right;
 }
 h2 {
     text-align: center;
-    color: black;
+    color: white;
+    font-size: 70px;
 }
 h3 {
     text-align: center;
-    color: black;
+    color: white;
+    font-size: 50px;
 }
 header {
     background: url(../img/caring-a-dog-banner.webp);
     background-size: cover;
     background-position: 50% 35%;
     min-height: 1000px;
-    background-blend-mode: color-burn;
+    background-blend-mode: luminosity;
 }
 .button-container {
     text-align:center;
+}
+.banner-button__find {
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
