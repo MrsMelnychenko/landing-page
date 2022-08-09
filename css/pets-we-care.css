@@ -1,7 +1,61 @@
 .pets-we-care {
     display: block;
-    background-color: aquamarine;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: larger;
     text-align: center;
+}
+.cats {
+    border: 5px solid gray;
+    padding: 3%;
+    width: 25%;
+    box-align: center;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.dogs {
+    border: 5px solid gray;
+    padding: 3%;
+    width: 25%;
+    box-align: center;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.fish {
+    border: 5px solid grey;
+    padding: 3%;
+    width: 25%;
+    box-align: center;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.birds {
+    border: 5px solid grey;
+    padding: 3%;
+    width: 25%;
+    box-align: center;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.turtle {
+    border: 5px solid grey;
+    padding: 3%;
+    width: 25%;
+    box-align: center;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
