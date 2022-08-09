@@ -4,12 +4,13 @@ h1 {
     font-size: 100px;
 }
 .navigation-menu {
-    color:brown;
-    text-align: right;
+    color:Black;
+    display:block;
+    text-align:right;
 }
 h2 {
     text-align: center;
-    color: white;
+    color: black;
     font-size: 70px;
 }
 h3 {
@@ -21,13 +22,16 @@ header {
     background: url(../img/caring-a-dog-banner.webp);
     background-size: cover;
     background-position: 50% 35%;
-    min-height: 1000px;
-    background-blend-mode: luminosity;
+    min-height: 700px;
 }
 .button-container {
     text-align:center;
 }
 .banner-button__find {
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.banner-button__become {
     font-size: large;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
