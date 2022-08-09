@@ -1,6 +1,6 @@
 h1 {
     display: inline;
-    color: orange;
+    color: whitesmoke;
     font-size: 100px;
 }
 .navigation-menu {
@@ -21,10 +21,10 @@ h3 {
     font-size: 50px;
 }
 header {
-    background: url(../img/caring-a-dog-banner.webp);
+    background: linear-gradient(35deg, aquamarine, grey);
     background-size: cover;
     background-position: 50% 35%;
-    min-height: 700px;
+    min-height: 500px;
 }
 .button-container {
     text-align:center;
