@@ -1,12 +1,11 @@
 .footer {
-    text-align: center;   
+    text-align: center;
+    display: inline;
 }
 
 .email-address {
-margin-left: 30%;
-margin-right: 50%;
+    vertical-align:middle;
 }
 .subscribe-button {
-    margin-left: 40%;
-    margin-right: 50%;
+    vertical-align:middle;
 }
