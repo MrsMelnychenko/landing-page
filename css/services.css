@@ -1,0 +1,41 @@
+.pet-sitting-photo {
+margin-left: 35%;
+margin-right: 50%;
+width: 30%;
+}
+
+.pet-sitting-subtitle {
+    display: block;
+    text-align: center;
+    font-size: larger;
+}
+
+.dog-walking-photo {
+    margin-left: 35%;
+    margin-right: 50%;
+    width: 30%;
+    }
+
+.dog-walking-subtitle {
+    display: block;
+    text-align: center;
+    font-size: larger;
+}
+
+.pet-taxi-photo {
+    margin-left: 35%;
+    margin-right: 50%;
+    width: 30%;
+    }
+
+.pet-taxi-subtitle {
+    display: block;
+    text-align: center;
+    font-size: larger;
+}
+.request-service {
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
